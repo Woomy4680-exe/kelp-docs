@@ -1,3 +1,13 @@
-# Welcome
+# Installation
 
-Welcome to [KelpDot](https://github.com/Woomy4680-exe/Kelp) documentation! 
+## From binaries
+
+You can find Binaries from the GitHub [releases page](https://github.com/Woomy4680-exe/kelp/release), you have just to copy it into /usr/bin or /usr/local/bin and it's OK!
+
+## From source (cargo)
+
+Just run `cargo install kelpdot` to install the latest stable release with cargo
+
+## From Package Manager
+
+There's currently no packages (WIP)

@@ -1,3 +1,4 @@
 # Summary
 
-- [Welcome](./install.md)
+- [Welcome](./welcome.md)
+- [Installation](./install.md)
