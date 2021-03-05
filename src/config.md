@@ -1,3 +1,4 @@
+<!---Disable markdownlint warnings if 2 headers have the same name-->
 <!--markdownlint-disable-file MD024-->
 # Configuration guide
 
