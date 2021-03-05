@@ -41,3 +41,13 @@ postsave:
     - path: "scripts/usefullscript.sh" # The path to the script, relative to the kelp.yaml file
       elevated: true # Use true to run the script with eleveted privileges (optional) (default: false)
 ```
+
+## Prerun
+
+> The scripts to run **BEFORE** installing the dotfiles
+
+```yaml
+postsave:
+    - path: "scripts/usefullscript.sh" # The path to the script, relative to the kelp.yaml file
+      elevated: true # Use true to run the script with eleveted privileges (optional) (default: false)
+```
