@@ -31,3 +31,13 @@ rootfiles:
       backuponly: true # Use true if you want the file to not be reinstalled with `kelpdot install` (optional) (default: false)
       onlyon: gentoo # Specify if the file can only be installed in one distro (optional) (default: None)
 ```
+
+## Postsave
+
+> The scripts to run **AFTER** saving the dotfiles
+
+```yaml
+postsave:
+    - path: "scripts/usefullscript.sh" # The path to the script, relative to the kelp.yaml file
+      elevated: true # Use true to run the script with eleveted privileges (optional) (default: false)
+```
