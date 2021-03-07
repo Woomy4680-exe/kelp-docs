@@ -10,4 +10,7 @@ Just run `cargo install kelpdot` to install the latest stable release with cargo
 
 ## From Package Manager
 
-There's currently no packages (WIP)
+### Arch GNU/Linux
+
+KelpDot is aviable as `kelpdot-bin` on the AUR
+
